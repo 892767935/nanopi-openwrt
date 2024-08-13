@@ -17,7 +17,6 @@ CONFIG_DROPBEAR_ECC_FULL=y
 CONFIG_DROPBEAR_ECC=y
 CONFIG_PACKAGE_luci-app-argon-config=y
 CONFIG_PACKAGE_luci-app-autoreboot=y
-CONFIG_PACKAGE_luci-app-cifs-mount=y
 CONFIG_PACKAGE_luci-app-diskman=y
 CONFIG_PACKAGE_luci-app-ttyd=y
 CONFIG_PACKAGE_luci-app-turboacc_INCLUDE_shortcut-fe=y
